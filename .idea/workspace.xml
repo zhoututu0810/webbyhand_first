@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e877f59-8753-47b9-b50e-543893071907" name="Default Changelist" comment="" />
+    <list default="true" id="6e877f59-8753-47b9-b50e-543893071907" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webbyhand_first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webbyhand_first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test1/test2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webbyhand_first" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -30,6 +38,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1dGBxYSjIRdftNDf0kdqSXLJnOs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -432,13 +441,34 @@
       <workItem from="1645710467399" duration="1935000" />
       <workItem from="1645714790366" duration="1392000" />
       <workItem from="1646129975932" duration="8000" />
+      <workItem from="1646131334346" duration="1187000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="327" y="64" key="CommitChangelistDialog2" timestamp="1646132781036">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="327" y="64" key="CommitChangelistDialog2/48.23.1392.877@48.23.1392.877" timestamp="1646132781036" />
+    <state x="532" y="223" key="FileChooserDialogImpl" timestamp="1646131622048">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="531" y="223" key="FileChooserDialogImpl/47.23.1393.877@47.23.1393.877" timestamp="1646131447592" />
+    <state x="532" y="223" key="FileChooserDialogImpl/48.23.1392.877@48.23.1392.877" timestamp="1646131622048" />
     <state width="1348" height="182" key="GridCell.Tab.0.bottom" timestamp="1645714729271">
       <screen x="50" y="23" width="1390" height="877" />
     </state>
@@ -455,11 +485,23 @@
       <screen x="50" y="23" width="1390" height="877" />
     </state>
     <state width="1348" height="182" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1645714729271" />
-    <state x="395" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1646129982160">
+    <state x="287" y="87" key="SettingsEditor" timestamp="1646133786696">
       <screen x="48" y="23" width="1392" height="877" />
     </state>
-    <state x="395" y="283" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1646129982160" />
+    <state x="287" y="87" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1646133786696" />
+    <state x="344" y="201" key="Vcs.Push.Dialog.v2" timestamp="1646132820897">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="344" y="201" key="Vcs.Push.Dialog.v2/48.23.1392.877@48.23.1392.877" timestamp="1646132820897" />
+    <state x="395" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1646133738342">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="395" y="283" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1646133738342" />
     <state x="397" y="283" key="com.intellij.ide.util.TipDialog/50.23.1390.877@50.23.1390.877" timestamp="1645710495146" />
+    <state x="527" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646132692721">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="527" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/48.23.1392.877@48.23.1392.877" timestamp="1646132692721" />
     <state x="403" y="218" width="683" height="486" key="find.popup" timestamp="1645718163422">
       <screen x="50" y="23" width="1390" height="877" />
     </state>
