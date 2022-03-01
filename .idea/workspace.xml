@@ -28,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dGBxYSjIRdftNDf0kdqSXLJnOs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -427,6 +431,7 @@
       <workItem from="1629937795385" duration="215000" />
       <workItem from="1645710467399" duration="1935000" />
       <workItem from="1645714790366" duration="1392000" />
+      <workItem from="1646129975932" duration="8000" />
     </task>
     <servers />
   </component>
@@ -450,9 +455,10 @@
       <screen x="50" y="23" width="1390" height="877" />
     </state>
     <state width="1348" height="182" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1645714729271" />
-    <state x="397" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1645710495146">
-      <screen x="50" y="23" width="1390" height="877" />
+    <state x="395" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1646129982160">
+      <screen x="48" y="23" width="1392" height="877" />
     </state>
+    <state x="395" y="283" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1646129982160" />
     <state x="397" y="283" key="com.intellij.ide.util.TipDialog/50.23.1390.877@50.23.1390.877" timestamp="1645710495146" />
     <state x="403" y="218" width="683" height="486" key="find.popup" timestamp="1645718163422">
       <screen x="50" y="23" width="1390" height="877" />
