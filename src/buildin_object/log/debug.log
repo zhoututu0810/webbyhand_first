@@ -1,0 +1,72 @@
+2020-07-13 23:35:35,684 - mylogger - DEBUG - mehod
+2020-07-13 23:36:45,147 - DEBUG - mehod
+2020-07-13 23:48:16,432-DEBUG-[log_util.py]-[<module>]-[33]:
+mehod
+2020-07-13 23:48:36,546-[DEBUG]-[log_util.py]-[<module>]-[33]:
+mehod
+2020-07-13 23:49:14,137-[DEBUG]-[log_util.py]-[<module>]-[33No]:
+mehod
+2020-07-13 23:52:41,012-[ERROR]-[log_util.py]-[<module>]-[36No]:
+必填参数
+2020-07-13 23:53:08,423-[ERROR]-[log_util.py]-[<module>]-[36No]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 34, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2020-07-13 23:54:11,543-[ERROR]-[log_util.py]-[<module>]-[36no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 34, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2020-07-13 23:54:40,751-[ERROR]-[log_util.py]-[tst]-[37no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 35, in tst
+    1/0
+ZeroDivisionError: division by zero
+2020-07-14 00:00:39,808-[ERROR]-[log_util.py]-[tst]-[38no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 36, in tst
+    1/0
+ZeroDivisionError: division by zero
+2020-07-14 00:01:06,378-[ERROR]-[log_util.py]-[tst]-[38no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 36, in tst
+    1/0
+ZeroDivisionError: division by zero
+2020-07-14 00:01:13,136-[ERROR]-[log_util.py]-[tst]-[38no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 36, in tst
+    1/0
+ZeroDivisionError: division by zero
+2020-07-14 00:01:45,796-[ERROR]-[log_util.py]-[tst]-[38no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 36, in tst
+    1/0
+ZeroDivisionError: division by zero
+
+2020-07-14 00:15:10,758-[ERROR]-[log_util.py]-[tst]-[42no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 40, in tst
+    1/0
+ZeroDivisionError: division by zero
+
+2020-07-14 00:15:40,978-[ERROR]-[log_util.py]-[tst]-[42no]:
+必填参数
+Traceback (most recent call last):
+  File "/Users/alice/PycharmProjects/webbyhand_first/src/utils/log_util.py", line 40, in tst
+    1/0
+ZeroDivisionError: division by zero
+
+2020-07-14 00:15:40,978-[DEBUG]-[log_util.py]-[<module>]-[44no]:
+121
+
+2020-07-14 00:15:40,979-[ERROR]-[log_util.py]-[<module>]-[45no]:
+324234
