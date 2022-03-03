@@ -3,7 +3,7 @@ class DataTest(object):
         self.name = name
 
     def __getitem__(self, item):
-    # 不定义该方法，[]会访问TypeError: 'DataTest' object is not subscriptable
+        # 不定义该方法，[]会访问TypeError: 'DataTest' object is not subscriptable
         print('enter getitem', item)
         return item
 

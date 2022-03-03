@@ -41,4 +41,23 @@ list(ns)
 for c in itertools.chain('ABC', 'XYZA'):
     print(c)
 
+#
+# cmp_to_key 将cmp转换为key函数，因为python3的sorted移除了python2中的cmp参数
+# 本质就是功能重复，了解就好，一般用key参数都能够实现
+#
+import functools
+
+l1 = ['a', 'b', 'c']
+l2 = [1, 2, 3]
+
+
+# cmp的默认实现
+def cmp(a, b):
+    if a <= b:
+        return 1  # 不调换顺序
+    elif a > b:
+        return -1  # 负数调换顺序
+
+
+l4 = sorted(l2, key=functools.cmp_to_key(cmp))
 
